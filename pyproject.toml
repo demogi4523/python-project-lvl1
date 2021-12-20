@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "python-project-lvl1"
-version = "0.0.1"
+version = "0.0.2"
 description = ""
 authors = ["demogi4523 <demogi4523@yandex.ru>"]
 license = "MIT"
@@ -10,6 +10,7 @@ packages = [
 
 [tool.poetry.dependencies]
 python = "^3.9"
+prompt = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
 
